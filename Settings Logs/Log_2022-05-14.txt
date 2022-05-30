@@ -1,0 +1,9 @@
+INFO: 02:43:33.8825856
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 02:43:35.0814331
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+INFO: 02:43:35.0945747
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry

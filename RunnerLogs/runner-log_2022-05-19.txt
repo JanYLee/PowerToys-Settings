@@ -1,0 +1,219 @@
+[2022-05-19 12:07:14.385028] [p-8056] [t-8060] [info] runner logger is initialized
+[2022-05-19 12:07:14.385088] [p-8056] [t-8060] [info] Running powertoys with cmd args: 
+[2022-05-19 12:07:14.415722] [p-8056] [t-8060] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":true,"Awake":true,"ColorPicker":true,"FancyZones":true,"File Explorer":true,"FindMyMouse":true,"Image Resizer":true,"Keyboard Manager":true,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":true,"PowerToys Run":true,"Shortcut Guide":true,"Video Conference":false},"is_elevated":true,"run_elevated":true,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.58.0"}
+[2022-05-19 12:07:14.455814] [p-8056] [t-8060] [info] Runner is starting. Elevated=true
+[2022-05-19 12:07:14.762913] [p-8056] [t-8060] [trace] UnRegister hotkey action for FancyZones
+[2022-05-19 12:07:15.033614] [p-8056] [t-8060] [trace] UnRegister hotkey action for File Explorer
+[2022-05-19 12:07:16.646070] [p-8056] [t-8060] [trace] UnRegister hotkey action for Image Resizer
+[2022-05-19 12:07:17.669042] [p-8056] [t-8060] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-05-19 12:07:18.823092] [p-8056] [t-8060] [trace] UnRegister hotkey action for PowerToys Run
+[2022-05-19 12:07:18.823103] [p-8056] [t-8060] [trace] Register hotkey action for PowerToys Run
+[2022-05-19 12:07:19.156161] [p-8056] [t-8060] [trace] UnRegister hotkey action for PowerRename
+[2022-05-19 12:07:19.292285] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 12:07:19.516662] [p-8056] [t-8060] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-19 12:07:19.516675] [p-8056] [t-8060] [trace] Register hotkey action for ColorPicker
+[2022-05-19 12:07:19.591150] [p-8056] [t-8060] [trace] UnRegister hotkey action for Awake
+[2022-05-19 12:07:19.648639] [p-8056] [t-8060] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-19 12:07:19.704104] [p-8056] [t-8060] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-05-19 12:07:19.764291] [p-8056] [t-8060] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-05-19 12:07:19.854834] [p-8056] [t-8060] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-05-19 12:07:19.954210] [p-8056] [t-8060] [trace] UnRegister hotkey action for Video Conference
+[2022-05-19 12:07:19.954484] [p-8056] [t-8060] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-05-19 12:07:19.954491] [p-8056] [t-8060] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-05-19 12:07:19.954506] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy AlwaysOnTop
+[2022-05-19 12:07:20.051915] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy Awake
+[2022-05-19 12:07:20.059577] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-05-19 12:07:20.077965] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy FancyZones
+[2022-05-19 12:07:20.126389] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-05-19 12:07:20.126400] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-05-19 12:07:20.126523] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy Image Resizer
+[2022-05-19 12:07:20.127204] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-05-19 12:07:20.204449] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-05-19 12:07:20.204648] [p-8056] [t-8060] [trace] shift+win+H shortcut registered
+[2022-05-19 12:07:20.204656] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy PowerRename
+[2022-05-19 12:07:20.205676] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-05-19 12:07:20.350833] [p-8056] [t-8060] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-05-19 12:07:20.350877] [p-8056] [t-8060] [trace] shift+win+/ shortcut registered
+[2022-05-19 15:00:44.513970] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:44.514030] [p-8056] [t-8060] [trace] shift+win+/ shortcut unregistered
+[2022-05-19 15:00:44.516071] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:44.516337] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:44.525627] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.001777] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.003341] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.003474] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.010142] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.016007] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.017637] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.017726] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.025924] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.026973] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.029102] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.029203] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.036399] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.040938] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.042986] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.043118] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.052553] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.056885] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.058697] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.058817] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.066245] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.145047] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.146581] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.146670] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.152993] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.208222] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.210112] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.210224] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.216375] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.310572] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.312305] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.312394] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.318463] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.407104] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.408623] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.408721] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.414755] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.452844] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.454451] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.454543] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.461008] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.553651] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.555202] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.555290] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.561759] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.585580] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.587210] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.587305] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.594799] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.660881] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.662412] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.662502] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.668561] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:56.970320] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:56.972213] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:56.972353] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:56.978326] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:57.031086] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:57.032728] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:57.032820] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:57.038995] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:00:57.052400] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:00:57.054133] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:00:57.054222] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:00:57.060359] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:46.739713] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:46.741613] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:46.741706] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:46.748847] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.000493] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.002849] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.002964] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.009465] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.032643] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.034221] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.034311] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.040605] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.049307] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.051145] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.051374] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.058282] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.075240] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.076923] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.077025] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.083636] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.146479] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.148065] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.148160] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.154451] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.193742] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.195564] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.195654] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.202640] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.301981] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.303864] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.303948] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.310410] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.321530] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.323467] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.323558] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.330563] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.397173] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.398921] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.399007] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.405260] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:01:50.568994] [p-8056] [t-8060] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-19 15:01:50.570536] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:01:50.570622] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:01:50.578144] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:02:20.718073] [p-8056] [t-8060] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-19 15:02:20.718094] [p-8056] [t-8060] [trace] Register hotkey action for ColorPicker
+[2022-05-19 15:02:20.720298] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:02:20.720451] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:02:20.728038] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:02:23.085377] [p-8056] [t-8060] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-19 15:02:23.085399] [p-8056] [t-8060] [trace] Register hotkey action for ColorPicker
+[2022-05-19 15:02:23.087672] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:02:23.087836] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:02:23.094784] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:04:01.500233] [p-8056] [t-8060] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-19 15:04:01.502254] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:04:01.502353] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:04:01.508935] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:04:34.217314] [p-8056] [t-8060] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-19 15:04:34.218852] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:04:34.218943] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:04:34.225703] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:04:52.756724] [p-8056] [t-8060] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-19 15:04:52.758442] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:04:52.758541] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:04:52.766411] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:05:14.015022] [p-8056] [t-8060] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-19 15:05:14.016740] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:05:14.016832] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:05:14.024266] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:05:45.939696] [p-8056] [t-8060] [trace] On shift+win+H hotkey
+[2022-05-19 15:05:45.939714] [p-8056] [t-8060] [trace] MouseHighlighter hotkey Ex is invoked from Centralized keyboard hook
+[2022-05-19 15:05:49.766839] [p-8056] [t-8060] [trace] On shift+win+H hotkey
+[2022-05-19 15:05:49.766854] [p-8056] [t-8060] [trace] MouseHighlighter hotkey Ex is invoked from Centralized keyboard hook
+[2022-05-19 15:06:01.199038] [p-8056] [t-8060] [info] apply_general_settings: {"startup":true,"is_elevated":true,"run_elevated":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.58.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":true,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":true,"MousePointerCrosshairs":true},"download_updates_automatically":true}
+[2022-05-19 15:06:01.236941] [p-8056] [t-8060] [info] apply_general_settings: Enabling powertoy MousePointerCrosshairs
+[2022-05-19 15:06:01.237034] [p-8056] [t-8060] [trace] ctrl+alt+P shortcut registered
+[2022-05-19 15:06:01.242110] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:06:01.242209] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:06:01.251039] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:06:01.252643] [p-8056] [t-8060] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-05-19 15:06:01.252878] [p-8056] [t-8060] [trace] ctrl+alt+P shortcut unregistered
+[2022-05-19 15:06:01.252921] [p-8056] [t-8060] [trace] ctrl+alt+P shortcut registered
+[2022-05-19 15:06:01.254531] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:06:01.254610] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:06:01.263332] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:06:13.273623] [p-8056] [t-8060] [trace] On ctrl+alt+P hotkey
+[2022-05-19 15:06:13.273641] [p-8056] [t-8060] [trace] MousePointerCrosshairs hotkey Ex is invoked from Centralized keyboard hook
+[2022-05-19 15:06:22.935757] [p-8056] [t-8060] [trace] On ctrl+alt+P hotkey
+[2022-05-19 15:06:22.935774] [p-8056] [t-8060] [trace] MousePointerCrosshairs hotkey Ex is invoked from Centralized keyboard hook
+[2022-05-19 15:06:25.301013] [p-8056] [t-8060] [info] apply_general_settings: {"startup":true,"is_elevated":true,"run_elevated":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.58.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":true,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":true,"MousePointerCrosshairs":false},"download_updates_automatically":true}
+[2022-05-19 15:06:25.328706] [p-8056] [t-8060] [info] apply_general_settings: Disabling powertoy MousePointerCrosshairs
+[2022-05-19 15:06:25.329051] [p-8056] [t-8060] [trace] ctrl+alt+P shortcut unregistered
+[2022-05-19 15:06:25.333859] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:06:25.333979] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:06:25.340801] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:06:25.341248] [p-8056] [t-8060] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-05-19 15:06:25.342803] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:06:25.342880] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:06:25.348920] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:07:38.384086] [p-3488] [t-17608] [info] runner logger is initialized
+[2022-05-19 15:07:38.384117] [p-3488] [t-17608] [info] Running powertoys with cmd args: --open-settings=FancyZones
+[2022-05-19 15:13:43.487756] [p-21080] [t-13572] [info] runner logger is initialized
+[2022-05-19 15:13:43.487769] [p-21080] [t-13572] [info] Running powertoys with cmd args: --open-settings=FancyZones
+[2022-05-19 15:18:37.865916] [p-8056] [t-8060] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-19 15:18:37.865942] [p-8056] [t-8060] [trace] Register hotkey action for ColorPicker
+[2022-05-19 15:18:37.869381] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:18:37.869502] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:18:37.879176] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 15:18:49.287998] [p-8056] [t-8060] [trace] UnRegister hotkey action for Awake
+[2022-05-19 15:18:49.289671] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-19 15:18:49.289767] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-19 15:18:49.298000] [p-8056] [t-8060] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-19 20:48:17.422647] [p-8056] [t-8368] [trace] Version is up to date

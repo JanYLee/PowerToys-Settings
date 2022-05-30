@@ -1,0 +1,3 @@
+INFO: 23:06:36.6656435
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for PowerToys Run was not found.

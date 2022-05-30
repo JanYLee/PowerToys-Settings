@@ -1,0 +1,29 @@
+[2022-05-03 04:56:27.942201] [p-6796] [t-6800] [info] launcher logger is initialized
+[2022-05-03 04:56:27.942216] [p-6796] [t-6800] [info] Launcher object is constructing
+[2022-05-03 04:56:30.904600] [p-6796] [t-6800] [info] Microsoft_Launcher::enable() begin
+[2022-05-03 04:56:30.904638] [p-6796] [t-6800] [trace] Signaled exitEvent
+[2022-05-03 04:56:30.904985] [p-6796] [t-6800] [trace] Starting PowerToys Run from not elevated process
+[2022-05-03 04:56:31.002170] [p-6796] [t-6800] [trace] Started PowerToys Run
+[2022-05-03 04:56:31.002194] [p-6796] [t-6800] [info] Microsoft_Launcher::enable() end
+[2022-05-03 05:09:25.350190] [p-7848] [t-7852] [info] launcher logger is initialized
+[2022-05-03 05:09:25.350205] [p-7848] [t-7852] [info] Launcher object is constructing
+[2022-05-03 05:09:26.052477] [p-7848] [t-7852] [info] Microsoft_Launcher::enable() begin
+[2022-05-03 05:09:26.052525] [p-7848] [t-7852] [trace] Signaled exitEvent
+[2022-05-03 05:09:26.052542] [p-7848] [t-7852] [trace] Starting PowerToys Run from not elevated process
+[2022-05-03 05:09:26.094198] [p-7848] [t-7852] [trace] Started PowerToys Run
+[2022-05-03 05:09:26.094206] [p-7848] [t-7852] [info] Microsoft_Launcher::enable() end
+[2022-05-03 05:32:37.736108] [p-7984] [t-7988] [info] launcher logger is initialized
+[2022-05-03 05:32:37.736123] [p-7984] [t-7988] [info] Launcher object is constructing
+[2022-05-03 05:32:38.477090] [p-7984] [t-7988] [info] Microsoft_Launcher::enable() begin
+[2022-05-03 05:32:38.477125] [p-7984] [t-7988] [trace] Signaled exitEvent
+[2022-05-03 05:32:38.477139] [p-7984] [t-7988] [trace] Starting PowerToys Run from not elevated process
+[2022-05-03 05:32:38.526263] [p-7984] [t-7988] [trace] Started PowerToys Run
+[2022-05-03 05:32:38.526272] [p-7984] [t-7988] [info] Microsoft_Launcher::enable() end
+[2022-05-03 21:35:10.399144] [p-7304] [t-7308] [info] launcher logger is initialized
+[2022-05-03 21:35:10.399161] [p-7304] [t-7308] [info] Launcher object is constructing
+[2022-05-03 21:35:11.119267] [p-7304] [t-7308] [info] Microsoft_Launcher::enable() begin
+[2022-05-03 21:35:11.119297] [p-7304] [t-7308] [trace] Signaled exitEvent
+[2022-05-03 21:35:11.119313] [p-7304] [t-7308] [trace] Starting PowerToys Run from not elevated process
+[2022-05-03 21:35:11.284038] [p-7304] [t-7308] [trace] Started PowerToys Run
+[2022-05-03 21:35:11.284045] [p-7304] [t-7308] [info] Microsoft_Launcher::enable() end
+[2022-05-03 23:06:30.490796] [p-7304] [t-7736] [info] Send settings telemetry

@@ -1,0 +1,29 @@
+[2022-05-17 00:28:26.957971] [p-7116] [t-7556] [info] launcher logger is initialized
+[2022-05-17 00:28:26.957988] [p-7116] [t-7556] [info] Launcher object is constructing
+[2022-05-17 00:28:31.134988] [p-7116] [t-7556] [info] Microsoft_Launcher::enable() begin
+[2022-05-17 00:28:31.135049] [p-7116] [t-7556] [trace] Signaled exitEvent
+[2022-05-17 00:28:31.135062] [p-7116] [t-7556] [trace] Starting PowerToys Run from elevated process
+[2022-05-17 00:28:31.396084] [p-7116] [t-7556] [info] Microsoft_Launcher::enable() end
+[2022-05-17 01:11:30.147384] [p-7052] [t-7048] [info] launcher logger is initialized
+[2022-05-17 01:11:30.147398] [p-7052] [t-7048] [info] Launcher object is constructing
+[2022-05-17 01:11:31.094599] [p-7052] [t-7048] [info] Microsoft_Launcher::enable() begin
+[2022-05-17 01:11:31.094626] [p-7052] [t-7048] [trace] Signaled exitEvent
+[2022-05-17 01:11:31.094669] [p-7052] [t-7048] [trace] Starting PowerToys Run from elevated process
+[2022-05-17 01:11:31.201037] [p-7052] [t-7048] [warning] Failed to find the window. 函数不正确。
+[2022-05-17 01:11:31.201295] [p-7052] [t-7048] [warning] FindDesktopFolderView() failed attempt 1
+[2022-05-17 01:11:34.636431] [p-7052] [t-7048] [info] Microsoft_Launcher::enable() end
+[2022-05-17 01:32:12.717008] [p-7964] [t-7968] [info] launcher logger is initialized
+[2022-05-17 01:32:12.717023] [p-7964] [t-7968] [info] Launcher object is constructing
+[2022-05-17 01:32:15.269220] [p-7964] [t-7968] [info] Microsoft_Launcher::enable() begin
+[2022-05-17 01:32:15.269252] [p-7964] [t-7968] [trace] Signaled exitEvent
+[2022-05-17 01:32:15.269263] [p-7964] [t-7968] [trace] Starting PowerToys Run from elevated process
+[2022-05-17 01:32:15.344424] [p-7964] [t-7968] [warning] Failed to find the window. 函数不正确。
+[2022-05-17 01:32:15.344618] [p-7964] [t-7968] [warning] FindDesktopFolderView() failed attempt 1
+[2022-05-17 01:32:18.559109] [p-7964] [t-7968] [info] Microsoft_Launcher::enable() end
+[2022-05-17 02:43:38.609008] [p-7964] [t-10784] [info] Send settings telemetry
+[2022-05-17 13:56:43.300253] [p-7436] [t-7432] [info] launcher logger is initialized
+[2022-05-17 13:56:43.300266] [p-7436] [t-7432] [info] Launcher object is constructing
+[2022-05-17 13:56:46.600800] [p-7436] [t-7432] [info] Microsoft_Launcher::enable() begin
+[2022-05-17 13:56:46.600844] [p-7436] [t-7432] [trace] Signaled exitEvent
+[2022-05-17 13:56:46.600858] [p-7436] [t-7432] [trace] Starting PowerToys Run from elevated process
+[2022-05-17 13:56:46.806729] [p-7436] [t-7432] [info] Microsoft_Launcher::enable() end

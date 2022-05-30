@@ -1,0 +1,41 @@
+[2022-05-26 03:51:02.206022] [p-9008] [t-9012] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-05-26 05:25:41.443086] [p-16432] [t-16436] [info] runner logger is initialized
+[2022-05-26 05:25:41.443111] [p-16432] [t-16436] [info] Running powertoys with cmd args: 
+[2022-05-26 05:25:41.469314] [p-16432] [t-16436] [info] apply_general_settings: {"startup":true,"enabled":{"AlwaysOnTop":true,"Awake":true,"ColorPicker":true,"FancyZones":true,"File Explorer":true,"FindMyMouse":true,"Image Resizer":true,"Keyboard Manager":true,"MouseHighlighter":true,"MousePointerCrosshairs":false,"PowerRename":true,"PowerToys Run":true,"Shortcut Guide":true,"Video Conference":false},"is_elevated":true,"run_elevated":true,"download_updates_automatically":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.58.0"}
+[2022-05-26 05:25:41.497764] [p-16432] [t-16436] [info] Runner is starting. Elevated=true
+[2022-05-26 05:25:41.573951] [p-16432] [t-16436] [trace] UnRegister hotkey action for FancyZones
+[2022-05-26 05:25:41.727819] [p-16432] [t-16436] [trace] UnRegister hotkey action for File Explorer
+[2022-05-26 05:25:41.738788] [p-16432] [t-16436] [trace] UnRegister hotkey action for Image Resizer
+[2022-05-26 05:25:42.057891] [p-16432] [t-16436] [trace] UnRegister hotkey action for Keyboard Manager
+[2022-05-26 05:25:42.175317] [p-16432] [t-16436] [trace] UnRegister hotkey action for PowerToys Run
+[2022-05-26 05:25:42.175325] [p-16432] [t-16436] [trace] Register hotkey action for PowerToys Run
+[2022-05-26 05:25:42.181858] [p-16432] [t-16436] [trace] UnRegister hotkey action for PowerRename
+[2022-05-26 05:25:42.233558] [p-16432] [t-16436] [trace] UnRegister hotkey action for Shortcut Guide
+[2022-05-26 05:25:42.290142] [p-16432] [t-16436] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-26 05:25:42.290149] [p-16432] [t-16436] [trace] Register hotkey action for ColorPicker
+[2022-05-26 05:25:42.326813] [p-16432] [t-16436] [trace] UnRegister hotkey action for Awake
+[2022-05-26 05:25:42.372174] [p-16432] [t-16436] [trace] UnRegister hotkey action for FindMyMouse
+[2022-05-26 05:25:42.421994] [p-16432] [t-16436] [trace] UnRegister hotkey action for MouseHighlighter
+[2022-05-26 05:25:42.548311] [p-16432] [t-16436] [trace] UnRegister hotkey action for AlwaysOnTop
+[2022-05-26 05:25:42.740125] [p-16432] [t-16436] [trace] UnRegister hotkey action for MousePointerCrosshairs
+[2022-05-26 05:25:43.026295] [p-16432] [t-16436] [trace] UnRegister hotkey action for Video Conference
+[2022-05-26 05:25:43.026610] [p-16432] [t-16436] [info] start_enabled_powertoys: Powertoy Video Conference explicitly disabled
+[2022-05-26 05:25:43.026614] [p-16432] [t-16436] [info] start_enabled_powertoys: Powertoy MousePointerCrosshairs explicitly disabled
+[2022-05-26 05:25:43.026624] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy AlwaysOnTop
+[2022-05-26 05:25:43.073405] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy Awake
+[2022-05-26 05:25:43.076265] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy ColorPicker
+[2022-05-26 05:25:43.094417] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy FancyZones
+[2022-05-26 05:25:43.121031] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy File Explorer
+[2022-05-26 05:25:43.121043] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy FindMyMouse
+[2022-05-26 05:25:43.121127] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy Image Resizer
+[2022-05-26 05:25:43.121695] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy Keyboard Manager
+[2022-05-26 05:25:43.148404] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy MouseHighlighter
+[2022-05-26 05:25:43.148593] [p-16432] [t-16436] [trace] shift+win+H shortcut registered
+[2022-05-26 05:25:43.148599] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy PowerRename
+[2022-05-26 05:25:43.149702] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy PowerToys Run
+[2022-05-26 05:25:43.288851] [p-16432] [t-16436] [info] start_enabled_powertoys: Enabling powertoy Shortcut Guide
+[2022-05-26 05:59:57.304474] [p-16432] [t-16436] [trace] UnRegister hotkey action for ColorPicker
+[2022-05-26 05:59:57.304506] [p-16432] [t-16436] [trace] Register hotkey action for ColorPicker
+[2022-05-26 05:59:57.318946] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-26 05:59:57.319120] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-26 05:59:57.329237] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for Video Conference module

@@ -1,0 +1,2 @@
+[2022-05-28 01:07:35.367062] [p-16432] [t-16436] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
+[2022-05-28 15:27:45.613642] [p-16432] [t-10372] [trace] Version is up to date

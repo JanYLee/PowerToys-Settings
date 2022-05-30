@@ -1,0 +1,6 @@
+ERROR: 22:11:14.1863627
+    [Method]: LoadProfile [Class]: KeyboardManagerViewModel
+    Timeout encountered when loading Keyboard Manager profile
+ERROR: 22:11:14.1904124
+    [Method]: LoadProfile [Class]: KeyboardManagerViewModel
+    Couldn't load Keyboard Manager profile

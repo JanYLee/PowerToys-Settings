@@ -1,0 +1,24 @@
+INFO: 15:00:33.0134689
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for Shortcut Guide was not found.
+ERROR: 15:01:56.5522915
+    [Method]: .ctor [Class]: ImageResizerViewModel
+    Exception encountered while reading Image Resizer settings.
+Unable to find the specified file.
+Inner exception: 
+
+Stack trace: 
+   at Microsoft.PowerToys.Settings.UI.Library.SettingsUtils.GetSettings[T](String powertoy, String fileName)
+   at Microsoft.PowerToys.Settings.UI.Library.ViewModels.ImageResizerViewModel..ctor(ISettingsUtils settingsUtils, ISettingsRepository`1 settingsRepository, Func`2 ipcMSGCallBackFunc, Func`2 resourceLoader)
+INFO: 15:02:19.3103986
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for File Explorer was not found.
+INFO: 15:03:55.1659039
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for FindMyMouse was not found.
+INFO: 15:03:55.1713494
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for MouseHighlighter was not found.
+INFO: 15:03:55.1758786
+    [Method]: GetSettingsOrDefault [Class]: SettingsUtils
+    Settings file settings.json for MousePointerCrosshairs was not found.

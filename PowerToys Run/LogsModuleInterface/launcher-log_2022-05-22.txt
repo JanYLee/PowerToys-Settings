@@ -1,0 +1,13 @@
+[2022-05-22 00:24:28.377676] [p-8640] [t-8644] [info] launcher logger is initialized
+[2022-05-22 00:24:28.377694] [p-8640] [t-8644] [info] Launcher object is constructing
+[2022-05-22 00:24:31.967018] [p-8640] [t-8644] [info] Microsoft_Launcher::enable() begin
+[2022-05-22 00:24:31.967124] [p-8640] [t-8644] [trace] Signaled exitEvent
+[2022-05-22 00:24:31.967136] [p-8640] [t-8644] [trace] Starting PowerToys Run from elevated process
+[2022-05-22 00:24:32.114358] [p-8640] [t-8644] [info] Microsoft_Launcher::enable() end
+[2022-05-22 00:24:32.229001] [p-8640] [t-11440] [info] Send settings telemetry
+[2022-05-22 00:30:27.825483] [p-8580] [t-8584] [info] launcher logger is initialized
+[2022-05-22 00:30:27.825498] [p-8580] [t-8584] [info] Launcher object is constructing
+[2022-05-22 00:30:33.155653] [p-8580] [t-8584] [info] Microsoft_Launcher::enable() begin
+[2022-05-22 00:30:33.155702] [p-8580] [t-8584] [trace] Signaled exitEvent
+[2022-05-22 00:30:33.155715] [p-8580] [t-8584] [trace] Starting PowerToys Run from elevated process
+[2022-05-22 00:30:33.297479] [p-8580] [t-8584] [info] Microsoft_Launcher::enable() end

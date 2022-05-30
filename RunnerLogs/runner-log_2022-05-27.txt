@@ -1,0 +1,12 @@
+[2022-05-27 00:12:43.650583] [p-16432] [t-10372] [trace] Version is up to date
+[2022-05-27 17:05:31.567078] [p-16432] [t-16436] [info] apply_general_settings: {"startup":true,"is_elevated":true,"run_elevated":true,"is_admin":true,"theme":"system","system_theme":"light","powertoys_version":"v0.58.0","action_name":"request_update_state_date","enabled":{"FancyZones":true,"Image Resizer":true,"File Explorer Preview":true,"Shortcut Guide":true,"Video Conference":false,"PowerRename":true,"Keyboard Manager":true,"PowerToys Run":true,"ColorPicker":true,"Awake":false,"FindMyMouse":true,"MouseHighlighter":true,"AlwaysOnTop":true,"MousePointerCrosshairs":false},"download_updates_automatically":true}
+[2022-05-27 17:05:31.595330] [p-16432] [t-16436] [info] apply_general_settings: Disabling powertoy Awake
+[2022-05-27 17:05:31.600860] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-27 17:05:31.601066] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-27 17:05:31.613131] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-27 17:05:31.614066] [p-16432] [t-16436] [trace] UnRegister hotkey action for Awake
+[2022-05-27 17:05:31.615963] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for AlwaysOnTop module
+[2022-05-27 17:05:31.616057] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for FancyZones module
+[2022-05-27 17:05:31.625517] [p-16432] [t-16436] [error] get_power_toys_settings(): got malformed json for Video Conference module
+[2022-05-27 19:43:35.258159] [p-16432] [t-16436] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook
+[2022-05-27 19:44:21.876491] [p-16432] [t-16436] [trace] PowerToys Run hotkey is invoked from Centralized keyboard hook

@@ -1,0 +1,21 @@
+INFO: 23:06:33.9821396
+    [Method]: LoadSettingsFromJson [Class]: UserSettings
+    ColorPicker settings.json was missing, creating a new one
+INFO: 23:06:34.3130224
+    [Method]: Callback [Class]: StartHelper
+    Successfully waited for Local\ColorPickerSettingsTelemetryEvent-6c7071d8-4014-46ec-b687-913bd8a422f1
+WARNING: 23:06:34.5490006
+    [Method]: SetWindowPosition [Class]: ChangeWindowPositionBehavior
+    Failed to get monitor bounds for mouse position-1,1
+INFO: 23:06:35.0059193
+    [Method]: SendSettingsTelemetry [Class]: UserSettings
+    Sending settings telemetry
+INFO: 04:53:48.3872656
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 04:53:48.3890009
+    [Method]: ChangeCursor [Class]: CursorManager
+    Cursor file path was null
+INFO: 04:53:48.3986237
+    [Method]: <OnStartup>b__5_0 [Class]: <>c
+    PowerToys Runner exited. Exiting ColorPicker
