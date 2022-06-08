@@ -1,2 +1,0 @@
-[2022-05-04 12:33:21.559948] [p-5140] [t-8208] [info] update logger is initialized
-[2022-05-04 12:33:21.757744] [p-11380] [t-6876] [info] update logger is initialized
