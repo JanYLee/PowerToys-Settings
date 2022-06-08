@@ -1,6 +1,0 @@
-[2022-05-24 02:44:03.227954] [p-9956] [t-9960] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
-[2022-05-24 02:45:36.147723] [p-9956] [t-9960] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
-[2022-05-24 03:20:47.582051] [p-9956] [t-9960] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
-[2022-05-24 03:21:13.888965] [p-9956] [t-9960] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
-[2022-05-24 03:21:31.381086] [p-9956] [t-9960] [trace] ColorPicker hotkey is invoked from Centralized keyboard hook
-[2022-05-24 17:04:21.746428] [p-9956] [t-9860] [trace] Version is up to date
