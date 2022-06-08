@@ -1,9 +1,0 @@
-[2022-05-25 14:32:38.425606] [p-9008] [t-9012] [info] launcher logger is initialized
-[2022-05-25 14:32:38.425621] [p-9008] [t-9012] [info] Launcher object is constructing
-[2022-05-25 14:32:39.903241] [p-9008] [t-9012] [info] Microsoft_Launcher::enable() begin
-[2022-05-25 14:32:39.903274] [p-9008] [t-9012] [trace] Signaled exitEvent
-[2022-05-25 14:32:39.903286] [p-9008] [t-9012] [trace] Starting PowerToys Run from elevated process
-[2022-05-25 14:32:40.031024] [p-9008] [t-9012] [warning] Failed to find the window. 函数不正确。
-[2022-05-25 14:32:40.031284] [p-9008] [t-9012] [warning] FindDesktopFolderView() failed attempt 1
-[2022-05-25 14:32:43.489545] [p-9008] [t-9012] [info] Microsoft_Launcher::enable() end
-[2022-05-25 17:04:25.692742] [p-9008] [t-11676] [info] Send settings telemetry
