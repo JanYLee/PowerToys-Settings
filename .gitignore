@@ -11,7 +11,7 @@ __snapshots__
 dist
 build
 report
-Logs
+*Logs*
 
 # misc
 .DS_Store
@@ -30,6 +30,7 @@ yarn-error.log*
 *.diff
 *.log
 *.patch
+*log*.txt
 
 .idea
 .vscode
