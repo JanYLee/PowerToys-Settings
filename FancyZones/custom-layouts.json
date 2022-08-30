@@ -24,6 +24,31 @@
         "spacing": 16,
         "sensitivity-radius": 0
       }
+    },
+    {
+      "uuid": "{3AC23925-E9DE-420F-B373-2B4002AC7936}",
+      "name": "\u81EA\u5B9A\u4E49\u5E03\u5C40 1",
+      "type": "grid",
+      "info": {
+        "rows": 1,
+        "columns": 2,
+        "rows-percentage": [
+          10000
+        ],
+        "columns-percentage": [
+          7063,
+          2937
+        ],
+        "cell-child-map": [
+          [
+            0,
+            1
+          ]
+        ],
+        "show-spacing": true,
+        "spacing": 16,
+        "sensitivity-radius": 20
+      }
     }
   ]
 }
